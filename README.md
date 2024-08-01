@@ -1,9 +1,13 @@
 # React-Native_labs
+
 ## There is 
 ### Lab 1
 ### Lab 2
 ### Lab 3
 ### Lab4&5
+Description: E-commerce Application that allows many users to view and purchase products.
+
+Tools Used: React-Native, Bootstrap, HTML, CSS, JavaScript.
 
 ## E-commerce Project
 
